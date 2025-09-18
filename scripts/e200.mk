@@ -1,0 +1,10 @@
+
+# Target specific constants go here
+
+HDF_URL:=
+TARGET_DTS_FILES:=zynq-e200.dtb
+COMPLETE_NAME:=ANTSDR
+ZIP_ARCHIVE_PREFIX:=antsdr
+DEVICE_VID:=0x0456
+DEVICE_PID:=0xb673
+SKIP_LEGAL:=1
